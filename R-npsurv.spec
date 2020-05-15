@@ -4,7 +4,7 @@
 #
 Name     : R-npsurv
 Version  : 0.4.0.1
-Release  : 15
+Release  : 16
 URL      : https://cran.r-project.org/src/contrib/npsurv_0.4-0.1.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/npsurv_0.4-0.1.tar.gz
 Summary  : Nonparametric Survival Analysis
@@ -26,10 +26,10 @@ export http_proxy=http://127.0.0.1:9/
 export https_proxy=http://127.0.0.1:9/
 export no_proxy=localhost,127.0.0.1,0.0.0.0
 export LANG=C.UTF-8
-export SOURCE_DATE_EPOCH=1588774148
+export SOURCE_DATE_EPOCH=1589578345
 
 %install
-export SOURCE_DATE_EPOCH=1588774148
+export SOURCE_DATE_EPOCH=1589578345
 rm -rf %{buildroot}
 export LANG=C.UTF-8
 export CFLAGS="$CFLAGS -O3 -flto -fno-semantic-interposition "
