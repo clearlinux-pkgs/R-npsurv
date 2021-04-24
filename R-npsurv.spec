@@ -4,7 +4,7 @@
 #
 Name     : R-npsurv
 Version  : 0.5.0
-Release  : 21
+Release  : 22
 URL      : https://cran.r-project.org/src/contrib/npsurv_0.5-0.tar.gz
 Source0  : https://cran.r-project.org/src/contrib/npsurv_0.5-0.tar.gz
 Summary  : Nonparametric Survival Analysis
